@@ -1,3 +1,5 @@
+> NOTA: Para todos los ejercicios puede utilizar el lenguaje de programación que desee.
+---
 # Ejercicio práctico #1
 > Se tiene una interfaz de cliente configurada en un equipo marca CISCO, la configuración se muestra en el archivo config.txt
 ```
