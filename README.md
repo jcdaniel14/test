@@ -18,7 +18,7 @@ end
 ```
 > Se desea cambiar el equipo del cliente por un equipo marca HUAWEI, con la observación que los comandos de configuración en HUAWEI no son los mismos que los de CISCO.
 >
-> Para realizarlo, debemos realizar los siguientes pasos.
+> Para esto, debemos realizar los siguientes pasos.
 > - Modelar la configuracion del puerto como un objeto.
 > - Poblar el objeto con las propiedades de la interfaz.
 > - Crear un nuevo archivo de configuracion usando los valores almacenados en el objeto.
